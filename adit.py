@@ -337,7 +337,7 @@ def help():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage = "╔══════════════════════════════╗" + "\n" + \
-                  "      ◄]·✪Aditmadzs✪·[►" + "\n" + \
+                  "      ◄]·✪DandyHayate✪·[►" + "\n" + \
                   "╚══════════════════════════════╝" + "\n" + \
                   "╔══════════════════════════════╗" + "\n" + \
                   "     ◄]·✪·Menu·✪·[►" + "\n" + \
@@ -448,10 +448,10 @@ def help():
                   "╠❂➣ " + key + "Listprotect\n" + \
                   "╠❂➣ Ketik「 Refresh 」Jika Sudah\n╠❂➣ Menggunakan Command Diatas...\n" + \
                   "╠══════════════════════════════╗" + "\n" + \
-                  "      ◄]·✪Aditmadzs✪·[►" + "\n" + \
+                  "      ◄]·✪DandyHayate✪·[►" + "\n" + \
                   "╠══════════════════════════════╝" + "\n" + \
                   "╠══════════════════════════════╗" + "\n" + \
-                  "◄]·✪line.me/ti/p/~adit_cmct✪·[►" + "\n" + \
+                  "◄]·✪line.me/ti/p/~dandyhayate✪·[►" + "\n" + \
                   "╚══════════════════════════════╝"
     return helpMessage
     
