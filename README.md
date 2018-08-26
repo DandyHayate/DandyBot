@@ -3,7 +3,7 @@
 *LINE Messaging's private API*
 
 ----
-# [ADD ME!](http://line.me/ti/p/~adit_cmct)
+# [ADD ME!](http://line.me/ti/p/~dandyhayate)
 # Ambil Token Bisa Di
 # [ADITMADZS PUBLIC BOT](http://line.me/ti/p/~aditmadzsbot2)
 # [ADITMADZS Public BOT](http://line.me/ti/p/~aditmadzsbot1)
